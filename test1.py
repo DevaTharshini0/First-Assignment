@@ -7,7 +7,7 @@
         #python 2.0--->Released in 2000(Introduced list comprehensions and garbage collection
         #python 3.0-->2008(Improve syntax and Unicode support
      #Modern python(3.x)
-         *Actively Developed and widelybused in web dev,data science,automation etc..
+         #Actively Developed and widelybused in web dev,data science,automation etc..
 
 
 #2)IDE?
