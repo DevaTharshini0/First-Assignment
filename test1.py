@@ -1,4 +1,4 @@
-#1)History of python?
+#1.History of python?
      #Father of python= Gudio Van Rossum(Netherlands)
        #1989(Started at centrum wiskunde &Information in the Netherlands)
      #First Released
@@ -10,7 +10,7 @@
          #Actively Developed and widelybused in web dev,data science,automation etc..
 
 
-#2)IDE?
+#2.IDE?
     #IDE(Integrated Development Environment)
       #IDE is a software application.That provide a comprehensive set of tools.It combine various features like text,editor,complier,debug.
    #key features of an IDE
@@ -33,7 +33,7 @@
      #4)Jupyter
         #Interactive environment for data analysis visualization and machine learnings
 
-#3)Type of tokens?  
+ #3.Type of tokens?  
     #In python tokens are the smallest unit in a program that have meaning to complier or intepreter.There are five types of tokens
     
        #1)Keyword
@@ -79,11 +79,11 @@
 
 
 
-#4) Datatypes?
+#4. Datatypes?
 
    #datatypes in python
 
-     #1. NumericTypes
+     #1)NumericTypes
            #These types are used when you’re working with numbers.
         #a)int (Integer)
              #Wholenumbers
@@ -96,7 +96,7 @@
             #Used for complex numbers (with imaginary part j)
                 #Ex: z = 2 + 3j
  
-      #2. Sequence Types 
+      #2) Sequence Types 
           #These store multiple values in an order.
              #a.str (String)
                #Ex: name = "Alice"
@@ -130,7 +130,7 @@
                                     print(student["name"])  
                                       # Output:
                                              #dhachuu
-   #5)Boolean Type
+     #5)Boolean Type
           # True or False
              #ex
                   #a=10
@@ -138,7 +138,7 @@
                   print(a > b)  
                      #Output: 
                       #True
-  #6) NoneType
+     #6) NoneType
            #NoneType: Represents a null value, often used to indicate the absence of a value.
                 #ex           
                   id = None
@@ -148,7 +148,7 @@
 
 
 
-#5))write the programme for the output?
+#5.write the programme for the output?
 	name: XXX
 	age:22
 	tamil:100
@@ -179,21 +179,20 @@
 average: 100.0
 
 
-#6) (5 & 12) & (2 | 6)
+#6. (5 & 12) & (2 | 6)
   #Answer
 
     #55
 
-#7) (54 | 6 & 5) | (21 & 9)
+#7. (54 | 6 & 5) | (21 & 9)
    #Answer
      #output
         #4
 
-#8)True or false. if it is false give the reason?
+#8. True or false. if it is false give the reason?
 	1) a="name"
            a=12
-
-	   print(a)
+           print(a)
 
 	2) b="kalai""tamil"
 	   print(b)
@@ -205,7 +204,7 @@ average: 100.0
            #Incorrect syntax! The issue is lack of space or explicit concatenation between the two string literals.
 
 
-#9) a=10
+#9.a=10
    b=2
    print(a/b+a%1)
      
@@ -213,13 +212,13 @@ average: 100.0
      #output
      #5.0
 
-#10)5>>2 and 9<<3
+#10. 5>>2 and 9<<3
 
   #Answer
    #1
    #72
 
-#11)what is member ship operator give the example?
+#11.what is member ship operator give the example?
 
   #Membership operators in Python are used to test if a value is found within a sequence (such as lists, tuples, strings, or dictionaries). There are two membership        operators: in and not in.
   #in operator:
@@ -291,7 +290,7 @@ print("c" in my_dict)
        #Output
         #True
 
-#12)explain identity?
+#12.Explain identity?
 
    #In Python, identity refers to the unique memory address of an object.You can check an object's identity using the id() function. 
    
@@ -323,7 +322,7 @@ print("c" in my_dict)
        #Answer
          print(("hello " * 4) + ("hi " * 4))
 
-##14)how to find the datatype and explain?
+#14.How to find the datatype and explain?
  	
 	#In Python, you can determine the datatype of a variable using the type() function. 
 	
@@ -355,7 +354,7 @@ print("c" in my_dict)
                    # Output
                      #<class 'list'>
 
-#15)convert the a='154' to integer?
+#15.convert the a='154' to integer?
     
 #Answer
      a = '154'
